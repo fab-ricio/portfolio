@@ -8,7 +8,7 @@ const projects = [
     github: 'https://github.com/tonprofil/facture-pdf',
     demo: null,
     badges: ['Open Source', 'CLI', 'PDF'],
-    image: '/images/facture.jpg',
+    image: './images/facture.jpg',
   },
   {
     title: 'Bot Telegram auto-poster',
@@ -17,7 +17,7 @@ const projects = [
     github: 'https://github.com/tonprofil/bot-telegram',
     demo: null,
     badges: ['Open Source', 'Cron-ready', 'API'],
-    image: '/images/bot.jpg',
+    image: './images/bot.jpg',
   },
   {
     title: 'Scraper de données web',
@@ -26,7 +26,7 @@ const projects = [
     github: 'https://github.com/tonprofil/scraper-node',
     demo: null,
     badges: ['Open Source', 'AI-powered', 'CLI'],
-    image: '/images/scraper.jpg',
+    image: './images/scraper.jpg',
   },
 ];
 

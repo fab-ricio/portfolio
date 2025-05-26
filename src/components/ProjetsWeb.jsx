@@ -7,7 +7,7 @@ const webApps = [
     description: "Application météo moderne avec API et design responsive.",
     github: 'https://github.com/tonprofil/weather-app',
     demo: 'https://demo.weather-app.com',
-    image: '/images/Weather-app.png', // image principale
+    image: './images/Weather-app.png', // image principale
     imageAlt: '/images/weather.jpg',   // image alternative (ancienne)
   },
   {
@@ -15,7 +15,7 @@ const webApps = [
     description: "Gestionnaire de tâches intuitif, rapide et synchronisé.",
     github: 'https://github.com/tonprofil/todo-list',
     demo: 'https://demo.todo-list.com',
-    image: '/images/to-do.png', // image principale
+    image: './images/to-do.png', // image principale
     imageAlt: '/images/todo.jpg',   // image alternative (ancienne)
   },
   {
@@ -23,7 +23,7 @@ const webApps = [
     description: "Dashboard web personnalisable pour visualiser vos données.",
     github: 'https://github.com/tonprofil/dashboard',
     demo: 'https://demo.dashboard.com',
-    image: '/images/dashboard.jpg',
+    image: './images/dashboard.jpg',
   },
 ];
 
